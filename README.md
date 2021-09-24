@@ -7,7 +7,7 @@
 - Operating System
 
 의욕만 한참 앞서가는 그런 코린이입니다.  
-I'm Newbie Programmer, just having to much ambition.
+I'm Newbie Programmer, just having too much ambition.
 ___
 ### Contact
 my email : okht13@gmail.com  
