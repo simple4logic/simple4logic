@@ -1,16 +1,17 @@
-### Hi there 👋
+### 🌱 아직 한창 배울 때
 
-<!--
-**simple4logic/simple4logic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Interest
+- Web (Dynamic Web)
+- Problem Solving
+- Server
+- Operating System
 
-Here are some ideas to get you started:
+의욕만 한참 앞서가는 그런 코린이입니다.  
+I'm Newbie Programmer, just having to much ambition.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+
+### Contact
+my email : okht13@gmail.com  
+편하게 이메일 주세요!  
+Feel free to contact me!
