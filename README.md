@@ -13,5 +13,3 @@ ___
 my email : okht13@gmail.com  
 편하게 이메일 주세요!  
 Feel free to contact me!
-
-gitpod url : gitpod.io/#/https://github.com/simple4logic/simple4logic.github.io
