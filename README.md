@@ -5,8 +5,8 @@
 - System Semiconductor Engineering for AI
 
 ### My Interest is ...
-- ML/DL
-- Problem Solving
+- ML
+- Basic of Algorithm
 - Server (Communication)
 - Web
 
