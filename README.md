@@ -7,7 +7,6 @@
 ### My Interest is ...
 - ML
 - Basic of Algorithm
-- Server (Communication)
 - Web
 
 의욕만 한참 앞서가는 그런 코린이입니다.  
