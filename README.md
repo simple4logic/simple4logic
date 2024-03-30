@@ -3,11 +3,7 @@
 ### Now I'm Majoring...
 - Mechanical Engineering
 - System Semiconductor Engineering for AI
-
-### My Interest is ...
-- ML
-- Algorithm
-- Web
+  
 ___
 ### Contact
-my email : okht13@gmail.com
+my email: okht13@gmail.com
