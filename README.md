@@ -1,4 +1,4 @@
-### 🌱 아직 한창 배울 때
+## 🌱
 
 ### Now I'm Majoring...
 - Mechanical Engineering
